@@ -1,5 +1,5 @@
 # Deep_Neural_Networks_for_Facial_Expressions
-Investigating deep neural networks for facial expression recognistion
+Investigating deep neural networks for facial expression recognition
 
 <h2>Motivation</h2>
 
